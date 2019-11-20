@@ -15,3 +15,6 @@ Paragaph content is un tagged...becomes body text in your rendered HTML.
 ## Heading 2 
 
 ### Heading 3 
+
+
+#### Heading 4
