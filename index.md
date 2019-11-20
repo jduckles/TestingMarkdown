@@ -1,5 +1,7 @@
 # Heading 1 
 
+This is a new change. 
+
 Paragaph content is un tagged...becomes body text in your rendered HTML.
 
 **THIS IS BOLD** 
